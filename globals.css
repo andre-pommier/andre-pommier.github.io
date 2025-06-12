@@ -1,0 +1,261 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,400|Inter:500,700,600,400|Jacques+Francois:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/684a2d63c131880ffd6489c4.684a2d64c131880ffd6489c7.oG2ulSo.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.frame-1321317457 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.vector-2 {
+  height: 38px;
+  width: 63px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.surname {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 23px;
+  min-height: 224px;
+  text-align: justify;
+  width: 1278px;
+}
+
+.outils-utiliss {
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 77px;
+  text-decoration: underline;
+  width: 737px;
+}
+
+.cette-section-prsen {
+  color: var(--black-2);
+  font-weight: 400;
+  height: 343px;
+  line-height: 32px;
+  text-align: justify;
+  width: 737px;
+}
+
+.x5566774_2889034-1 {
+  height: 467px;
+  width: 538px;
+}
+
+.gestion-de-projet {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 64px;
+  margin-left: 80px;
+  margin-top: 113px;
+  white-space: nowrap;
+}
+
+.notion_app_logo-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.google_-docs_2020_-logosvg-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 91px;
+}
+
+.word-logo-8-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.google_-drive_logo-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.microsoft_-to-do_icon-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 153px;
+}
+
+.png-clipart-trello-l {
+  height: 125px;
+  width: 126px;
+}
+
+.excel-logo-0-1 {
+  height: 125px;
+  width: 141px;
+}
+
+.conception-graphique {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 64px;
+  margin-left: 80px;
+  margin-top: 134px;
+  white-space: nowrap;
+}
+
+.x1691829400logo-canva-png-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.adobe-photoshop-logo-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.logo {
+  height: 125px;
+  width: 125px;
+}
+
+.miro-logo-yellow-blu {
+  height: 125px;
+  width: 130px;
+}
+
+.adobe {
+  height: 125px;
+  width: 128px;
+}
+
+.adobe_-in-design_cc_iconsvg-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.montage-audiovisuel {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 64px;
+  margin-left: 80px;
+  margin-top: 134px;
+  white-space: nowrap;
+}
+
+.x64fb219ade937671b42e {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.da-vinci_-resolve_-studio-1 {
+  height: 125px;
+  width: 126px;
+}
+
+.x9c2b3f4e7c2f563381dd51d157a9fd29-1 {
+  height: 81px;
+  left: 0;
+  top: 0;
+  width: 137px;
+}
+
+.x9c2b3f4e7c2f563381dd51d157a9fd29-2 {
+  height: 83px;
+  left: 46px;
+  top: 14px;
+  width: 140px;
+}
+
+.chatgpt-logo-1-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.grok-logo-png_seeklogo-613403-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.images-1-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.gamma-1-1 {
+  height: 125px;
+  width: 108px;
+}
+
+.topaz-labs-gigapixel-ai-550x550-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.midjourney-1 {
+  height: 125px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.creative_-cloud_2021_logo {
+  height: 125px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.x9c2b3f4e7c2f563381dd51d157a9fd29 {
+  object-fit: cover;
+  position: absolute;
+}

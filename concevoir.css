@@ -1,0 +1,245 @@
+/* screen - concevoir */
+
+.concevoir {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 7946px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.concevoir .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 421px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 8;
+}
+
+.concevoir .accueil {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.concevoir .navbar {
+  align-items: center;
+  display: flex;
+  gap: 56px;
+  justify-content: flex-end;
+  position: relative;
+  width: 788px;
+}
+
+.concevoir .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.concevoir .button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.concevoir .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}
+
+.concevoir .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/80623e5a75ccb7a9c5858fa30a632a5c-gigapixel-standard-scale-2-00x--1.png);
+  height: 929px;
+  margin-top: 152px;
+  padding: 308px 531px;
+  z-index: 2;
+}
+
+.concevoir .title {
+  color: var(--white);
+  font-weight: 700;
+  height: 77px;
+  line-height: normal;
+  min-width: 378px;
+  text-align: center;
+}
+
+.concevoir .group-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 1442px;
+  z-index: 3;
+}
+
+.concevoir .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/vector-5.svg);
+  height: 239px;
+  justify-content: flex-end;
+  padding: 29px 101px;
+}
+
+.concevoir .concevoir-des-rpons {
+  color: var(--white);
+  font-weight: 400;
+  height: 179px;
+  line-height: 52px;
+  text-align: justify;
+  width: 1237px;
+}
+
+.concevoir .group-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 77px;
+  min-height: 394px;
+  width: 1284px;
+  z-index: 6;
+}
+
+.concevoir .refonte-dentreprise {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 64px;
+  width: 1266px;
+}
+
+.concevoir .modernisation-de-li {
+  color: var(--black);
+  font-weight: 500;
+  height: 44px;
+  line-height: 44px;
+  margin-top: 39px;
+  min-width: 726px;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.concevoir .group-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  height: 1813px;
+  margin-right: 2.15px;
+  margin-top: 77px;
+  min-width: 1278px;
+  z-index: 7;
+}
+
+.concevoir .projet-com_page-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  min-height: 1813px;
+  width: 400px;
+}
+
+.concevoir .projet-com_page-000 {
+  height: 565px;
+  object-fit: cover;
+  width: 400px;
+}
+
+.concevoir .projet-com_page-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  min-height: 1189px;
+  width: 400px;
+}
+
+.concevoir .group-4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 154px;
+  min-height: 394px;
+  width: 1285px;
+  z-index: 4;
+}
+
+.concevoir .conception-de-service {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 64px;
+  width: 1279px;
+}
+
+.concevoir .plaka-vide-dressing {
+  color: var(--black);
+  font-weight: 500;
+  height: 44px;
+  line-height: 44px;
+  margin-top: 39px;
+  min-width: 367px;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.concevoir .group-6 {
+  height: 3392px;
+  margin-right: 1.14px;
+  margin-top: 77px;
+  width: 1279px;
+  z-index: 5;
+}
+
+.concevoir .group-12 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-right: 81.35px;
+  margin-top: 94px;
+  min-width: 161px;
+  padding: 0 46.6px;
+  z-index: 1;
+}
+
+.concevoir .overlap {
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1440px;
+}

@@ -1,0 +1,315 @@
+/* screen - comprendre */
+
+.comprendre {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6478px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.comprendre .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 421px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 8;
+}
+
+.comprendre .accueil {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.comprendre .navbar {
+  align-items: center;
+  display: flex;
+  gap: 56px;
+  justify-content: flex-end;
+  position: relative;
+  width: 788px;
+}
+
+.comprendre .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comprendre .button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.comprendre .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}
+
+.comprendre .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/80623e5a75ccb7a9c5858fa30a632a5c-gigapixel-standard-scale-2-00x--1.png);
+  height: 929px;
+  margin-top: 152px;
+  padding: 308px 498px;
+  z-index: 3;
+}
+
+.comprendre .title {
+  color: var(--white);
+  font-weight: 700;
+  height: 77px;
+  line-height: normal;
+  text-align: center;
+  width: 443px;
+}
+
+.comprendre .group-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 1442px;
+  z-index: 2;
+}
+
+.comprendre .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/vector-5.svg);
+  height: 239px;
+  padding: 29px 101px;
+}
+
+.comprendre .comprendre-les-cosy {
+  color: var(--white);
+  font-weight: 400;
+  height: 179px;
+  line-height: 52px;
+  text-align: justify;
+  width: 1237px;
+}
+
+.comprendre .group-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.0px;
+  margin-top: 77px;
+  min-height: 394px;
+  width: 1285px;
+  z-index: 6;
+}
+
+.comprendre .audit-de-site-web {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 64px;
+  width: 1279px;
+}
+
+.comprendre .universit-des-antilles {
+  color: var(--black);
+  font-weight: 500;
+  height: 44px;
+  line-height: 44px;
+  margin-top: 39px;
+  min-width: 359px;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.comprendre .laudit-du-site-web {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 23px;
+  min-height: 224px;
+  text-align: justify;
+  width: 1278px;
+}
+
+.comprendre .group-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-right: 3.93px;
+  margin-top: 77px;
+  min-height: 1968px;
+  width: 1278px;
+  z-index: 4;
+}
+
+.comprendre .site-iut-1 {
+  height: 629px;
+  object-fit: cover;
+  width: 1278px;
+}
+
+.comprendre .flex-row {
+  gap: 27px;
+  height: 1305px;
+  min-width: 1278px;
+}
+
+.comprendre .sae-audit-trafic_page-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  min-height: 1305px;
+  width: 626px;
+}
+
+.comprendre .sae101-audit-trafic_page-000 {
+  height: 883px;
+  object-fit: cover;
+  width: 625px;
+}
+
+.comprendre .sae101-audit-trafic_page-0003 {
+  height: 396px;
+  margin-left: 1px;
+  width: 625px;
+}
+
+.comprendre .flex-col {
+  flex-direction: column;
+  gap: 26px;
+  min-height: 1305px;
+  width: 625px;
+}
+
+.comprendre .capture-dcran-2025-06-10-183940-1 {
+  height: 396px;
+  object-fit: cover;
+  width: 625px;
+}
+
+.comprendre .group-3-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  margin-top: 153px;
+  min-height: 426px;
+  width: 1284px;
+  z-index: 7;
+}
+
+.comprendre .analyse-socio-numrique {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 64px;
+  width: 1266px;
+}
+
+.comprendre .tude-de-lvolution {
+  color: var(--black);
+  font-weight: 500;
+  height: 44px;
+  line-height: 44px;
+  margin-top: 39px;
+  min-width: 801px;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.comprendre .cette-tude-socio-nu {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 23px;
+  min-height: 256px;
+  text-align: justify;
+  width: 1278px;
+}
+
+.comprendre .group-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  height: 1776px;
+  margin-right: 1.76px;
+  margin-top: 77px;
+  min-width: 1278px;
+  z-index: 5;
+}
+
+.comprendre .abdbbcfddf-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  min-height: 1776px;
+  width: 400px;
+}
+
+.comprendre .ab9d31725b833857bc3f5d5d63936f72 {
+  height: 566px;
+  object-fit: cover;
+  width: 400px;
+}
+
+.comprendre .abdbbcfddf-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  min-height: 1171px;
+  width: 400px;
+}
+
+.comprendre .group-12 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-right: 82.35px;
+  margin-top: 69px;
+  min-width: 161px;
+  padding: 0 46.6px;
+  z-index: 1;
+}
+
+.comprendre .overlap {
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 1440px;
+}

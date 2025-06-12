@@ -1,0 +1,225 @@
+/* screen - contact */
+
+.contact {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1072px;
+  width: 1440px;
+}
+
+.contact .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 421px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 3;
+}
+
+.contact .accueil {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.contact .navbar {
+  align-items: center;
+  display: flex;
+  gap: 56px;
+  justify-content: flex-end;
+  position: relative;
+  width: 788px;
+}
+
+.contact .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact .button {
+  background-color: var(--white);
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 14px 24px;
+}
+
+.contact .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}
+
+.contact .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: 80px;
+  margin-top: 252px;
+  position: relative;
+  width: 624px;
+  z-index: 2;
+}
+
+.contact .title {
+  align-self: stretch;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-32px);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .form {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 32px;
+  margin-left: 80px;
+  margin-top: 32px;
+  position: relative;
+  width: 626px;
+  z-index: 1;
+}
+
+.contact .input {
+  height: 80px;
+  width: 295px;
+}
+
+.contact .prnom {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .field {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  padding: 12px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.contact .label {
+  color: var(--gray);
+  flex: 1;
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .input-1 {
+  height: 80px;
+  width: 297px;
+}
+
+.contact .nom-de-famille {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .input-2 {
+  height: 80px;
+  width: 626px;
+}
+
+.contact .adresse-e-mail {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .input-3 {
+  height: 194px;
+  width: 626px;
+}
+
+.contact .votre-message {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.contact .button-1 {
+  background-color: var(--black);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 16px 32px;
+}
+
+.contact .envoyer {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contact .button-2 {
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.contact .input-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}

@@ -1,0 +1,130 @@
+/* screen - accueil */
+
+.accueil {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1072px;
+  min-width: 1440px;
+}
+
+.accueil .overlap-group {
+  align-items: center;
+  background-image: url(../img/80623e5a75ccb7a9c5858fa30a632a5c-gigapixel-standard-scale-2-00x--1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 152px;
+  min-height: 929px;
+  padding: 41px 36.4px;
+  width: 1440px;
+  z-index: 1;
+}
+
+.accueil .title {
+  color: var(--white);
+  font-family: var(--font-family-jacques_francois);
+  font-size: 86px;
+  font-weight: 400;
+  letter-spacing: -0.86px;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 197px;
+  min-height: 113px;
+  text-align: center;
+  width: 953px;
+}
+
+.accueil .tavy-pommier {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 10.88px;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 29px;
+  min-height: 77px;
+  text-align: center;
+  width: 622px;
+}
+
+.accueil .group-12 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-top: 373px;
+  min-width: 161px;
+  padding: 0 46.6px;
+}
+
+.accueil .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 468px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.accueil .accueil-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.accueil .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 56px;
+  position: relative;
+}
+
+.accueil .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.accueil .button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.accueil .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}

@@ -1,0 +1,143 @@
+/* screen - entreprendre */
+
+.entreprendre {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2221px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.entreprendre .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 421px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 4;
+}
+
+.entreprendre .accueil {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.entreprendre .navbar {
+  align-items: center;
+  display: flex;
+  gap: 56px;
+  justify-content: flex-end;
+  position: relative;
+  width: 788px;
+}
+
+.entreprendre .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.entreprendre .button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.entreprendre .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}
+
+.entreprendre .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/80623e5a75ccb7a9c5858fa30a632a5c-gigapixel-standard-scale-2-00x--1.png);
+  height: 929px;
+  margin-top: 152px;
+  padding: 308px 473px;
+  z-index: 1;
+}
+
+.entreprendre .title {
+  color: var(--white);
+  font-weight: 700;
+  height: 77px;
+  line-height: normal;
+  min-width: 494px;
+  text-align: center;
+}
+
+.entreprendre .group-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: -2px;
+  min-width: 1442px;
+  z-index: 2;
+}
+
+.entreprendre .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/vector-5.svg);
+  height: 239px;
+  justify-content: flex-end;
+  padding: 29px 101px;
+}
+
+.entreprendre .entreprendre-et-pilo {
+  color: var(--white);
+  font-weight: 400;
+  height: 179px;
+  line-height: 52px;
+  text-align: justify;
+  width: 1237px;
+}
+
+.entreprendre .group-12 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-right: 94.35px;
+  margin-top: 748px;
+  min-width: 161px;
+  padding: 0 46.6px;
+  z-index: 3;
+}
+
+.entreprendre .overlap {
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1440px;
+}

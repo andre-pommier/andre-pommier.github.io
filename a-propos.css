@@ -1,0 +1,147 @@
+/* screen - a-propos */
+
+.a-propos {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1081px;
+  width: 1442px;
+}
+
+.a-propos .navigation {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  gap: 421px;
+  height: 152px;
+  left: 0;
+  padding: 0 80px;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 3;
+}
+
+.a-propos .accueil {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 2.0px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.a-propos .navbar {
+  align-items: center;
+  display: flex;
+  gap: 56px;
+  justify-content: flex-end;
+  position: relative;
+  width: 788px;
+}
+
+.a-propos .navbar-link {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.a-propos .button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #0000000d;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.a-propos .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 69px;
+}
+
+.a-propos .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 196px;
+  height: 611px;
+  margin-left: 0.53px;
+  margin-top: 235px;
+  min-width: 1283px;
+  z-index: 1;
+}
+
+.a-propos .copy {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 625px;
+}
+
+.a-propos .propos {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.a-propos .je-me-prsente-tavy-pommier-21-ans {
+  align-self: stretch;
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 36px;
+  position: relative;
+}
+
+.a-propos .paragraph {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.a-propos .image-profil-1 {
+  height: 586px;
+  margin-bottom: 5.0px;
+  object-fit: cover;
+  width: 462px;
+}
+
+.a-propos .group-13 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  margin-right: 51.35px;
+  margin-top: 138px;
+  min-width: 161px;
+  padding: 0 46.6px;
+  z-index: 2;
+}
